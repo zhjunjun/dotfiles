@@ -28,7 +28,7 @@ nnoremap gh :action Back<CR>
 nnoremap gl :action Forward<CR>
 
 inoremap <C-n> <C-o>:action InsertLiveTemplate<CR>
-nnoremap <C-I> :action QuickJavaDoc<CR>
+nnoremap gc :action QuickJavaDoc<CR>
 
 nnoremap ,p :action PasteMultiple<CR>
 nnoremap ,P :action PasteMultiple<CR>
